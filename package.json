@@ -1,6 +1,6 @@
 {
   "name": "ent-hapi-redirect",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "redirect utility for hapi",
   "main": "lib/index.js",
   "directories": {
